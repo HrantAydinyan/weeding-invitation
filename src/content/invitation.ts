@@ -27,10 +27,10 @@ const hall: Venue = {
 };
 
 const date: WeddingDate = {
-  iso: "2026-07-11",
-  startsAt: "2026-07-11T14:30:00+04:00",
-  day: "11",
-  month: "07",
+  iso: "2026-12-08",
+  startsAt: "2026-12-08T14:30:00+04:00",
+  day: "08",
+  month: "12",
   year: "2026",
 };
 

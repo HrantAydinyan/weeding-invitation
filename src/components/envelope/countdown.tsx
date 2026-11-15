@@ -5,7 +5,7 @@ import { Fragment, useSyncExternalStore } from "react";
 import { GoldHeart } from "./icons";
 
 type CountdownProps = {
-  /** ISO timestamp with offset, e.g. 2026-07-11T14:30:00+04:00 */
+  /** ISO timestamp with offset, e.g. 2026-12-08T14:30:00+04:00 */
   target: string;
   units: { days: string; hours: string; minutes: string; seconds: string };
   doneLabel: string;
